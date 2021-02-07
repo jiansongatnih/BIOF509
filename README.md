@@ -1,2 +1,1 @@
-# BIOF509
-BIOF509 - Applied Machine Learning
+# BIOF509 - Applied Machine Learning
